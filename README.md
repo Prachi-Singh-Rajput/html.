@@ -6,6 +6,10 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>hello world!</h1>
+    <b>youtube</b><hr>
+    <i>Snapchat</i><br><hr>
+    <u>google</u><hr>
+    <s>Strike</s>
 </body>
 </html>
+//used for bold,italic,underline,strike//
